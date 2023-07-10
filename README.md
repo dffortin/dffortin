@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dffortin
-- 👀 I’m interested in React, Redwood.js, GraphQL
-- 🌱 I’m currently learning Redwood.js
+- 👀 I’m interested in a framework that works correctly without a million added packages that are out of sync!
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on applying these tools to college, summarize and display medical data.
 - 📫 How to reach me ...
 
